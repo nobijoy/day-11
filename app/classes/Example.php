@@ -38,7 +38,7 @@ class Example
         echo '<pre>';
 //        print_r($this->student);
         var_dump($this->student);
-        $_
+
 
 //        foreach ($this->student as$key => $item){
 //            if($key == 0){
